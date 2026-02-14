@@ -1,7 +1,19 @@
+using Api_BaseDatos.Services;
+using Supabase;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var url = builder.Configuration["SB:ApiURL"]!;
+var key = builder.Configuration["SB:ApiKey"]!;
+
+var supabase = new Client(url, key);
+await supabase.InitializeAsync();
+
+builder.Services.AddSingleton(supabase);
+builder.Services.AddHttpClient<ProductosService>();
 
 var app = builder.Build();
 

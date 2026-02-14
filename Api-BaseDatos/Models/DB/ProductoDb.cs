@@ -3,6 +3,7 @@ using Supabase.Postgrest.Models;
 
 namespace Api_BaseDatos.Models.DB
 {
+    [Table("Producto")]
     public class ProductoDb : BaseModel
     {
         [PrimaryKey("Pro_Id", false)]

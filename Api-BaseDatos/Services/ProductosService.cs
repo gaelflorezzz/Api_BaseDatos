@@ -34,7 +34,7 @@ namespace Api_BaseDatos.Services
 
         }
 
-        public async Task Insertar(ProductoDb p)
+        public async Task Insertar(Producto p)
         {
             Console.WriteLine("Insertando productos...");
 
@@ -47,9 +47,16 @@ namespace Api_BaseDatos.Services
             };
 
             var res = await _supabase.From<ProductoDb>().Insert(db);
+
+            Console.WriteLine("Respuesta supabase: " + res.ResponseMessage.StatusCode);
         }
 
-        public async  Task<bool> Actualizar(Producto p)
+        public async Task Eliminar(long id)
+        {
+            await _supabase.From<ProductoDb>().Where(p => p.Pro_Id == id).Delete();
+        }
+
+        public async  Task<bool> Actualizar(ProductoDb p)
         {
             try
             {
@@ -88,6 +95,8 @@ namespace Api_BaseDatos.Services
 
                 return lista.FirstOrDefault();
             }
+
+            return null;
         }
     }
 }

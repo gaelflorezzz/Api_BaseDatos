@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ds3\\AWOS\\Api_BaseDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\services\\productosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\services\\productosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\views\\productos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\views\\productos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\models\\db\\productodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\models\\db\\productodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\views\\productos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\views\\productos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|d:\\ds3\\awos\\api_basedatos\\api-basedatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38F29E7F-1088-40DD-96F8-C238B2A14FB0}|Api-BaseDatos\\Api-BaseDatos.csproj|solutionrelative:api-basedatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Api-BaseDatos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T21:15:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Api-BaseDatos\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T19:10:23.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Views\\Productos\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Views\\Productos\\Editar.cshtml",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Views\\Productos\\Editar.cshtml",
+              "RelativeToolTip": "Api-BaseDatos\\Views\\Productos\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T19:10:15.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Views\\Productos\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Views\\Productos\\Crear.cshtml",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Views\\Productos\\Crear.cshtml",
+              "RelativeToolTip": "Api-BaseDatos\\Views\\Productos\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T19:10:04.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Program.cs",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Program.cs",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Program.cs",
+              "RelativeToolTip": "Api-BaseDatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T19:04:11.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Api-BaseDatos\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA0wD8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:55:26.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoDb.cs",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Models\\DB\\ProductoDb.cs",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Models\\DB\\ProductoDb.cs",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Models\\DB\\ProductoDb.cs",
+              "RelativeToolTip": "Api-BaseDatos\\Models\\DB\\ProductoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:51:15.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosService.cs",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Services\\ProductosService.cs",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Services\\ProductosService.cs",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Services\\ProductosService.cs",
+              "RelativeToolTip": "Api-BaseDatos\\Services\\ProductosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:51:15.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\Models\\Producto.cs",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\Models\\Producto.cs",
+              "RelativeToolTip": "Api-BaseDatos\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:51:15.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\appsettings.json",
+              "RelativeDocumentMoniker": "Api-BaseDatos\\appsettings.json",
+              "ToolTip": "D:\\ds3\\AWOS\\Api_BaseDatos\\Api-BaseDatos\\appsettings.json",
+              "RelativeToolTip": "Api-BaseDatos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-14T18:51:15.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

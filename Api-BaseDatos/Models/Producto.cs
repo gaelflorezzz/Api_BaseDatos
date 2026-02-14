@@ -1,4 +1,6 @@
-﻿namespace Api_BaseDatos.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Api_BaseDatos.Models
 {
     public class Producto
     {
